@@ -1,0 +1,1 @@
+This project leverages Python’s yfinance library to extract, analyze, and visualize historical stock data and revenue estimates for major companies like Tesla (TSLA) and GameStop (GME). It includes data scraping, dataframes, and visual plots to help understand financial trends over time.
